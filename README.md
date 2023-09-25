@@ -1,2 +1,2 @@
 # LabProg2
-This repository is for Programming Lab - CL2
+This repository is for Project Lab - CL1
